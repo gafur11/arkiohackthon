@@ -2,7 +2,7 @@ import { supabase } from '@/integrations/supabase/client';
 import { predictiveService } from './predictiveService';
 import { businessInsightsService } from './businessInsightsService';
 
-const OPENROUTER_API_KEY = "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";
+const OPENROUTER_API_KEY = "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";
 const MODEL = "kwaipilot/kat-coder-pro:free";
 
 // Helper functions
